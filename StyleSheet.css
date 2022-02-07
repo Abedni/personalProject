@@ -1,10 +1,11 @@
 ﻿body
 {
- background-color:brown;
+ background-color:darkgray;
 
       
 }
 h1{
+    font-size:100px;
     color:salmon;
 }
 ul{
