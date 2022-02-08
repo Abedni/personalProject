@@ -1,12 +1,13 @@
 ﻿body
 {
- background-color:darkgray;
-
+ background-color:violet;
+ margin-block:30px;
       
 }
 h1{
+    margin:30px;
     font-size:70px;
-    color:salmon;
+    color:springgreen;
 }
 ul{
     color:bisque;
