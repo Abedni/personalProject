@@ -1,6 +1,6 @@
 ﻿body
 {
- background-color:violet;
+ background-color:green;
  margin-block:30px;
       
 }
@@ -11,7 +11,8 @@ h1{
 }
 ul{
     color:bisque;
+    
 }
 li{
-    margin:50px;
+    margin:40px;
 }
