@@ -10,5 +10,9 @@ h1{
     color:springgreen;
 }
 ul{
-    color:bisque;
+    color:darkblue;
+
+}
+li{
+    margin:20px;
 }
